@@ -1,1 +1,8 @@
 Here is a list of packages that we used:
+-numpy
+-math
+-matplotlib.pyplot
+-scipy.integrate
+-functools.partial
+-scipy.integrate.quad
+-pyccl
