@@ -6,3 +6,4 @@ Here is a list of packages that we used:
 -functools.partial
 -scipy.integrate.quad
 -pyccl
+-mpl_toolkits.mplot3d.Axes3D
