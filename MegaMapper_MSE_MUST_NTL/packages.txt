@@ -7,3 +7,4 @@ Here is a list of packages that we used:
 -scipy.integrate.quad
 -pyccl
 -mpl_toolkits.mplot3d.Axes3D
+-Camb for massive neutrino
