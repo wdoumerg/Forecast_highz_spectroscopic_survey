@@ -1,1 +1,3 @@
-z
+In this directory, there is a code to compute the derivative of the power spectrum (and growth function f), wrt cosmo parameters (6+Mnu).
+We compute it for a set of (kj,zi) for P--> we get a matrix
+We compute it for a set (zi) for f--> we get a vector
